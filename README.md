@@ -26,9 +26,9 @@ Through the development of this app, I gained hands-on experience in:
 - Accessing device features such as the Clipboard API for enhanced functionality
 
 ## Preview
-![Preview 1](/PwdGenReactNative/Sample.png)
-![Preview 2](/PwdGenReactNative/working_sample_1.png)
-![Preview 3](/PwdGenReactNative/working_sample_2.png)
+![Preview 1](/Sample.png)
+![Preview 2](/working_sample_1.png)
+![Preview 3](/working_sample_2.png)
 
 ## Author
 This app is developed by Vishal Pandey.
